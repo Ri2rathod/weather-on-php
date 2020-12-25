@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Saira', sans-serif;
+}
+body{
+    background: #232526;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.weather_card{border-radius: 30px;}
+nav{
+    border-radius: 30px !important;
+}
+.foot{
+    background: rgb(238,238,238);
+    background: linear-gradient(163deg, rgba(238,238,238,1) 45%, rgba(238,238,238,0.7595413165266106) 98%);
+    border-radius: 25px;
+}
